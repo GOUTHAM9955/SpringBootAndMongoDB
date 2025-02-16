@@ -1,0 +1,22 @@
+2025-02-16 18:32:37,208 [Worker-12: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is not available. Remote download required.
+2025-02-16 18:33:21,057 [Worker-36: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.launcher.com:MongoDBLauncher1:0.0.1-SNAPSHOT @ /Users/gouthamkakani/eclipse-workspace/SpringBoot_MongoDb/MongoDBLauncher1/pom.xml.
+2025-02-16 18:33:29,591 [Worker-36: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /MongoDBLauncher1/src/main/java
+2025-02-16 18:33:29,649 [Worker-36: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /MongoDBLauncher1/src/main/resources
+2025-02-16 18:33:29,656 [Worker-36: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /MongoDBLauncher1/src/main/resources
+2025-02-16 18:33:29,674 [Worker-36: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /MongoDBLauncher1/src/test/java
+2025-02-16 18:33:29,678 [Worker-36: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /MongoDBLauncher1/src/test/resources
+2025-02-16 18:33:30,833 [Worker-36: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 21 sec
+2025-02-16 18:33:31,362 [Worker-12: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2025-02-16 18:33:33,056 [Worker-12: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.launcher.com:MongoDBLauncher1:0.0.1-SNAPSHOT @ /Users/gouthamkakani/eclipse-workspace/SpringBoot_MongoDb/MongoDBLauncher1/pom.xml.
+2025-02-16 18:33:36,433 [Worker-12: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /MongoDBLauncher1/src/main/java
+2025-02-16 18:33:36,441 [Worker-12: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /MongoDBLauncher1/src/main/resources
+2025-02-16 18:33:36,443 [Worker-12: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /MongoDBLauncher1/src/main/resources
+2025-02-16 18:33:36,444 [Worker-12: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /MongoDBLauncher1/src/test/java
+2025-02-16 18:33:36,444 [Worker-12: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /MongoDBLauncher1/src/test/resources
+2025-02-16 18:33:37,123 [Worker-12: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 4.00 sec, update config takes 0.00 sec 
+2025-02-16 18:33:38,580 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-02-16 18:33:38,600 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-02-16 18:33:38,610 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/gouthamkakani/eclipse-workspace/SpringBoot_MongoDb/MongoDBLauncher1/src/test/resources
+2025-02-16 18:34:01,174 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-02-16 18:34:01,183 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-02-16 18:34:01,189 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/gouthamkakani/eclipse-workspace/SpringBoot_MongoDb/MongoDBLauncher1/src/test/resources
